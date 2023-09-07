@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Mang/Mang.iml" filepath="$PROJECT_DIR$/Mang/Mang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tongquanjava.iml" filepath="$PROJECT_DIR$/tongquanjava.iml" />
+    </modules>
+  </component>
+</project>
